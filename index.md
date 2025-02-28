@@ -13,7 +13,7 @@ Some additional useful configurations is an entire demo of an already configured
 
 
 <p align="center">A getting started video. Installing Asahi Linux on Mac M1/M2.
-
+&nbsp;
 <iframe width="420" height="315" src="https://www.youtube.com/embed/1iiFhhOkv14" frameborder="0" allowfullscreen></iframe>
 </p>
 
