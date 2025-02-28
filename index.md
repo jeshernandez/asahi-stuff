@@ -12,9 +12,9 @@ Examples: Configure Outlook, Microsoft Teams, Video Recording with OBS Studio, S
 Some additional useful configurations is an entire demo of an already configured desktop video, and offering documentation for each feature here. 
 
 
-<p align="center">A video walkthrough of various Just the Docs features</p>
+<p align="center">A getting started video--installation.</p>
 
-https://www.youtube.com/watch?v=1iiFhhOkv14
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=1iiFhhOkv14" frameborder="0" allowfullscreen></iframe>
 
 
 
