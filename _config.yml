@@ -1,8 +1,8 @@
 title: Asahi Linux Stuff
 description: A Documentation Page about Asahi Linux
-theme: minimal-mistakes-jekyll
+theme: just-the-docs
 
-url: https://mmistakes.github.io/minimal-mistakes/
+url: https://just-the-docs.github.io
 
 aux_links:
   Asahi Linux: https://asahilinux.org/
