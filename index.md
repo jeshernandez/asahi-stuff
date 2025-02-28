@@ -12,10 +12,10 @@ Examples: Configure Outlook, Microsoft Teams, Video Recording with OBS Studio, S
 Some additional useful configurations is an entire demo of an already configured desktop video, and offering documentation for each feature here. 
 
 
-<p align="center">A getting started video--installation.</p>
+<p align="center">A getting started video. Installing Asahi Linux on Mac M1/M2.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/1iiFhhOkv14" frameborder="0" allowfullscreen></iframe>
-
+</p>
 
 
 ----
