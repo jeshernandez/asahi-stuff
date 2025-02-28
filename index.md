@@ -14,7 +14,7 @@ Some additional useful configurations is an entire demo of an already configured
 
 <p align="center">A getting started video--installation.</p>
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=1iiFhhOkv14" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1iiFhhOkv14" frameborder="0" allowfullscreen></iframe>
 
 
 
