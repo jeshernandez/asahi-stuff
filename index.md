@@ -12,14 +12,11 @@ Examples: Configure Outlook, Microsoft Teams, Video Recording with OBS Studio, S
 Some additional useful configurations is an entire demo of an already configured desktop video, and offering documentation for each feature here. 
 
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+<p align="center">A video walkthrough of various Just the Docs features</p>
 
-To get started with creating a site, simply:
+https://www.youtube.com/watch?v=1iiFhhOkv14
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
 
