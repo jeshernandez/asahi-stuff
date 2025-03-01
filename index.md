@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-This is a documentation page on using Asahi Fedora Linux on Apple Silicon M1/M2. Learn more about Asahi Linux in their [About](https://asahilinux.org/about/) section. Specifically, this is a documentation page on setting up your system for a day-to-day user. Meaning, can you work a corporate job with Asahi Linux? So far, yes. 
+This is a documentation page on using Asahi Fedora Linux on Apple Silicon M1/M2. Learn more about Asahi Linux in their [About](https://asahilinux.org/about/) section. Specifically, this is a documentation page on setting up your system for a day-to-day user. Meaning, can you work a corporate job (the most restricted) with Asahi Linux? Meaning, Kubernetes in Azure requires kubelogin, specific AAD Azure Login, etc. Obviously if you require VPN/Proxy, then using your personal laptop will not work for you, duh. Otherwise, so far, yes. 
 
 - Microsoft Teams [YES]
 - Microsoft Outlook [YES]
