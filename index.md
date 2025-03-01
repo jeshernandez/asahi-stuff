@@ -19,7 +19,7 @@ For those interested in installing Asahi Linux. This is the first video I stumbl
 
 <p align="center">A getting started video. Installing Asahi Linux on Mac M1/M2.
 &nbsp;
-<iframe width="420" height="315" src="https://www.youtube.com/embed/1iiFhhOkv14" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="420" src="https://www.youtube.com/embed/1iiFhhOkv14" frameborder="0" allowfullscreen></iframe>
 </p>
 
 
