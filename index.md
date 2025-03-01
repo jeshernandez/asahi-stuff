@@ -15,7 +15,7 @@ I intend on documenting useful configurations, and even creating some videos tha
 
 <b>This is an open source documentation.</b> That means, if you have something cool to add or maybe figured out a way to solve something. Feel free to [contribute!](https://github.com/jeshernandez/asahi-stuff)
 
-For those interested in installing Asahi Linux. THis is the first video I stumbled into, which was very useful.
+For those interested in installing Asahi Linux. This is the first video I stumbled into, which was very useful.
 
 <p align="center">A getting started video. Installing Asahi Linux on Mac M1/M2.
 &nbsp;
