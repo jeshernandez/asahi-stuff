@@ -35,7 +35,7 @@ I am using Vim which already comes put together neatly with highlights, etc. Kin
 ### Screenshots
 2. I use `command+shift+s` which will bring up `Spectable.`
 
-This is vital for my day-to-day work life. I always need to take screenshots to minimize the amount of questions brought forward by jr devs. 
+This is vital for my day-to-day work life. I always need to take screenshots to minimize the amount of questions brought forward by JR devs :D. 
 
 
 
