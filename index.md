@@ -3,14 +3,19 @@ title: Home
 layout: home
 ---
 
-This is a documentation page about Asahi Linux, Linux on Apple Silicon. Learn more about Asahi Linux in their [About](https://asahilinux.org/about/) section. 
+This is a documentation page on using Asahi Fedora Linux on Apple Silicon M1/M2. Learn more about Asahi Linux in their [About](https://asahilinux.org/about/) section. Specifically, this is a documentation page on setting up your system for a day-to-day user. Meaning, can you work a corporate job with Asahi Linux? So far, yes. 
 
-At the time of this writing, I have been using Asahi Linux for three (3) days. I love it. I intend on documenting useful configurations, and even creating some videos that may help others. 
+- Microsoft Teams [YES]
+- Microsoft Outlook [YES]
+- .. you get it..
 
-Examples: Configure Outlook, Microsoft Teams, Video Recording with OBS Studio, Software Development with Visual Code, and IntelliJ. Finally, video game development using [Godot](https://godotengine.org/).
+I intend on documenting useful configurations, and even creating some videos that may help others. Not just from a day-to-day software engineer, but also as a hobbyist. 
 
-Some additional useful configurations is an entire demo of an already configured desktop video, and offering documentation for each feature here. 
+<b>Not everything is roses--yet</b>. I have not figured out how to install Discord yet. Workaround? Using the browser option. 3D printing? I own a Bambu Lab A1. The Bambu Studio software studio is available, however the networking piece is not working yet. Working on figuring this one out. 
 
+<b>This is an open source documentation.</b> That means, if you have something cool to add or maybe figured out a way to solve something. Feel free to [contribute!](https://github.com/jeshernandez/asahi-stuff)
+
+For those interested in installing Asahi Linux. THis is the first video I stumbled into, which was very useful.
 
 <p align="center">A getting started video. Installing Asahi Linux on Mac M1/M2.
 &nbsp;
